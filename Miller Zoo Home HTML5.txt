@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset = "utf-8">
+        <title>Miller Zoo</title>
+        <link rel="stylesheet" href="Zoostyle.css" type="text/css" />
+    </head>
+<body id="home">
+<p>
+  <a href="https://validator.w3.org/check/referer"><img
+    src="https://www.w3.org/Icons/valid-xhtml10"
+    alt="Valid XHTML 1.0!" height="31" width="88" /></a>
+</p>
+<h1>Miller Zoo</h1>
+<div class="wrapper">
+<nav>    
+<a href="https://web.njit.edu/~aak236/Miller%20Zoo.xhtml">Home</a>
+<br />
+<a href="EventsToursExhibits.xhtml">Events/Tours/Exhibits</a>
+<br />
+<a href="EducationalPrograms.xhtml">Educational Programs</a>
+<br />
+<a href="AnimalAquaticLife.xhtml">Animal/Aquatic Life</a>
+</nav>
+</div>
+<h2>Location</h2>
+<p>1020 S Morris Ave Bloomington, IL 61701<br /></p>
+<p>Open Every Day 9:30 a.m. - 4:30 p.m.</p>
+<table class="prices">
+    <tbody>
+        <tr>
+            <td style="border-width: 1px; border-style: solid;">Youth (ages 3-12)</td>
+            <td style="border-width: 1px; border-style: solid;">$4.95</td>
+        </tr>
+        <tr>
+            <td style="border-width: 1px; border-style: solid;">Adult (ages 13-59)</td>
+            <td style="border-width: 1px; border-style: solid;">$6.95</td>
+        </tr>
+        <tr>
+            <td style="border-width: 1px; border-style: solid;">Senior Citizen (ages 60 &amp; up)</td>
+            <td style="border-width: 1px; border-style: solid;">$5.95</td>
+        </tr>
+        <tr>
+            <td style="border-width: 1px; border-style: solid;">Military</td>
+            <td style="border-width: 1px; border-style: solid;">$5.95</td>
+        </tr>
+        <tr>
+            <td style="border-width: 1px; border-style: solid;">Children ages 2 and under</td>
+            <td style="border-width: 1px; border-style: solid;">FREE</td>
+        </tr>
+        <tr>
+            <td style="border-width: 1px; border-style: solid;">Parking</td>
+            <td style="border-width: 1px; border-style: solid;">FREE</td>
+        </tr>
+    </tbody>
+</table>
+<h3>Interesting Facts</h3>
+<ul>
+  <li>We partner with Seafood Watch to help people make better seafood choices for healthy ocean life.</li>
+  <li>Miller Park Zoo is handicap accessible</li>
+  <li>Miller Park Zoo is an accredited member of the Association of Zoos and Aquariums, providing excellent care for animals, a great experience for you, and a better future for all living things.</li>
+  <li>Zoo is open all year round</li>
+  <li>It is also the only Illinois zoo to feature the endangered Sumatran tiger.</li>
+</ul>
+<h3>History</h3>
+<p>Opened in the late 1800's, this city zoo began to house exotic animals after a traveling circus left behind a lion cub. Located on Historic Route 66, the zoo became a popular attraction among travelers.</p>
+<h4>Size and visitors</h4>
+<p>Miller Zoo spans a total of 4 acres with an annual 123,129 visitors a year!</p>
+<br />
+<p>All information used to produce this website belongs to and was retrieved from the Miller Park Zoo.</p>
+</body>
+</html>

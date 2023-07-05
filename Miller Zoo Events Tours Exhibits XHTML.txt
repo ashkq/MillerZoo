@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Events/Tours/Exhibits</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="Zoostyle.css" type="text/css" />
+  </head>
+<body id="events">
+<div class="wrapper">
+  <nav>
+    <a href="https://web.njit.edu/~aak236/Miller%20Zoo.xhtml">Home</a>
+  </nav>
+</div>
+<h1>Events/Tours/Exhibits</h1>
+<ol>
+  <li>FREE Fridays in February at the Zoo from 9:30 AM - 4:30 PM</li>
+  <li>Active Senior Walk at the Zoo Wednesdays from 8:30 AM - 9:30 AM</li>
+  <li>Learn About Butterflies Day at Miller Park Zoo on February 26th from 12:00 PM - 3:00 PM</li>
+  <li>Bunny's Birthday at Miller Park Zoo on March 9th from 12:00 PM - 3:00 PM</li>
+  <li>Party for The Planet - Recycled Art Sculpture Contest on March 22nd from 9:30 AM - 4:30 PM</li>
+  <li>Party For The Planet - Earth Day at Miller Park Zoo on March 23rd from 12:00 PM - 3:00 PM</li>
+  <li>The Great Clean Up! on March 10:00 AM - 3:00 PM</li>
+</ol>
+<a href="https://www.bloomingtonparks.org/facilities/miller-park-zoo">
+<img xmlns="http://www.w3.org/1999/xhtml" alt="wolves" src="https://www.itl.cat/pngfile/big/195-1951983_howling-for-justice-baby-wolves-in-den.jpg" title="wolves" />
+</a>
+</body>
+</html>

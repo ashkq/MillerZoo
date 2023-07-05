@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset = "utf-8">
+    <title>Educational Programs</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="Zoostyle.css" type="text/css" />
+  </head>
+<body id="edu">
+<div class="wrapper">
+  <nav>
+    <a href="https://web.njit.edu/~aak236/Miller%20Zoo.xhtml">Home</a>
+  </nav>
+</div>
+<h1>Educational Programs</h1>
+  <ul>
+    <li>Animal Crackers for ages 3 - 5 and a grown-up</li>
+    <li>Zoo Explorers for ages 6 - 11</li>
+    <li>Spring Break Safari Camp for ages 6 - 11</li>
+    <li>Morning walks for elders 55 and up</li>
+      <li>Volunteering
+      <ul>
+        <li>applicants must be 18 years of age or older</li>
+        <li>must commit to a volunteer term of at least 6 months</li>
+        <li>must provide written proof of a negative TB skin test every 12 months (if working in contact with animals or their food)</li>
+      </ul>
+      </li>
+      <li>Internships
+      <ul>
+        <li>Must maintain animal enclosures both on and off Zoo grounds</li> 
+        <li>Assist with Eastern Box Turtle field project</li>
+        <li>Assist with Animal Care</li>
+        <li>Give presentations to Zoo Guests</li>
+        <li>Perform other tasks as assigned</li>
+        <li>24-40 hours a week for a minimum of 400 hours</li>
+      </ul>
+      </li>
+  </ul>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset = "utf-8">
+    <title>Animal/Aquatic Life</title>
+    <link rel="stylesheet" href="Zoostyle.css" type="text/css" />
+  </head>
+<body id="animal">
+<div class="wrapper">
+  <nav>
+    <a href="https://web.njit.edu/~aak236/Miller%20Zoo.xhtml">Home</a>
+  </nav>
+</div>
+<h1>Animal/Aquatic Life</h1>
+<h2>Animals to visit!</h2>
+<h3>Sumatran tiger</h3>
+<p>The Sumatran Tiger is the most popular attraction at the Miller Zoo because it is an endangered species. This is because it is the smallest populated tiger species which is quite sad. It is estimated that there are about 400 to 600 Sumatran tigers left in the whole world! As time goes on, these tigers are expected to shrink to even smaller numbers which is why it is such a spectacle to get to witness one at the Miller Zoo. The name Sumatran Tiger comes from where they originated, at the Indonesian island of Sumatra.</p>
+<h3>River otter</h3>
+<p>The river otter, also known as the North American river otter, is a semiaquatic mammal that only lives in North America, along its waterways and coasts.</p>
+<h3>Galapagos tortoise</h3>
+<p>The Galapagos tortoises are the largest species of turtles and tortoises in the world. They are native to the Galapagos islands and can grow to be 4 feet long and weight over 600 pounds! They are truly a wonder to witness at the Miller Zoo given their abnormal size and fascinating age. They are the oldest turtles living up to 175 years!</p> 
+<h3>Amur leopard</h3>
+<p>The Amur leopard is a leopard species native to the Primorye region of southeastern Russia and northern China. They are listed as critically endangered because of how much they are hunted. They are surprisingly considered the most endangered cats in the world!</p>
+<h3>Sun bears</h3>
+<p>The Sun bear is a species of bear that originate from the tropical forests of Southeast Asia. Sun bears are the smallest bear species weighing anywhere from 55 to 140 pounds. They have large paws, short snouts and a signature U-shape beige fur around on their front necks. They are very timid which allowed for many people to adopt these types of bears as pets!</p>
+<h2>Other animals include:</h2>
+<ul>
+  <li>Sea lion</li>
+  <li>Red pandas</li>
+  <li>Lemurs</li>
+  <li>Bald eagles</li>
+  <li>Pallas cats</li>
+  <li>Red wolves</li>
+</ul>
+<img xmlns="http://www.w3.org/1999/xhtml" alt="sumatrantiger" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sumatran_Tiger_Berlin_Tierpark.jpg/1200px-Sumatran_Tiger_Berlin_Tierpark.jpg" title="sumatrantiger" width="560" height="373" />
+</body>
+</html>

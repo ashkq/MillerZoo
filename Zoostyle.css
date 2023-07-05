@@ -1,0 +1,22 @@
+#home h1 {color: maroon; font-family: Times New Roman; text-align: center; font-size: 50px;}
+#home h2 {color: red; font-family: Arial; text-align: center;}
+#home h3 {color: red; font-family: medium Helvetica;}
+#home h4 {text-align: center;}
+#home nav {text-align: center;}
+#home p {color: black; font-family: Times New Roman; text-align: center;}
+#home ul {color: black; font-family: Serif;}
+#home table, th, td {border: 1px solid; width="100%"; max-width: none;}
+#home td, th {text-align: center;}
+table.prices {margin-left: auto; margin-right: auto;}
+
+#events h1 {color: maroon; font-family: Fantasy; text-align: center; font-size: 35px;}
+#events ol {color: black; font-family: Helvetica; font-size: 17px;}
+
+#edu h1 {color: maroon; font-family: "Courier New"; font-size: 40px;}
+#edu ul, li {color: green; font-family: "Times New Roman"; font-size: 20px;}
+
+#animal h1 {color: blue; font-family: "Georgia"; font-size: 40px;}
+#animal h2 {color: brown; font-family: "Times New Roman"; font-size: 28px;}
+#animal h3 {color: black; font-family: "Papyrus"; font-size: 23px;}
+#animal p {color: black; font-family: "Times New Roman"; font-size: 19px;}
+#animal ul, li {font-size: 19px;}
